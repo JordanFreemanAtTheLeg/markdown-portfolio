@@ -1,1 +1,9 @@
-Replace this with your name, and include a header.
+#Header 1
+
+My Name
+
+##Header 2
+
+Another Name
+
+###Header 3
